@@ -125,6 +125,9 @@ export const getOneArtwork = async (req, res) => {
 
 My main focus on the front-end was The profile page. We had planned to have user info, user's doodles and favourited doodles here. At some point we decided that favourited doodles shouldn't appear on the profile, as we moved towards a rating system for the doodles instead of personal favouriting. 
 
+![Doodler-profile copy](https://user-images.githubusercontent.com/74684118/118016526-68f9ff00-b34d-11eb-8a2f-21e9e963b92c.gif)
+
+
 ```javascript
 useEffect(() => {
     getSingleUser()
