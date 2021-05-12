@@ -41,6 +41,8 @@ The brief for this project was to work in a group (in our case 4 people) to buil
 ## Technologies Used:
 MongoDB/Mongoose
 
+Insomnia
+
 Express
 
 React.js - hooks
