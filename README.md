@@ -1,4 +1,4 @@
-# Dooder
+# Doodler
 
 ![Doodler - Screen Recording](https://user-images.githubusercontent.com/74684118/117976344-90d66c00-b327-11eb-8c63-c6902ec1a94b.gif)
 
