@@ -73,6 +73,8 @@ I used the GoodNotes app on my iPad to draw up some wireframes based on an exten
 
 ### My Focus
 
+Although everyone ended up working on everything in some ways, we definitely focused on specific areas. At the start of each day we would have a mini stand-up to see where each of us was most needed and whether anyone wanted help with anything. 
+
 **Back-end**
 
 In the first few days I concentrated on getting a back-end up and running so that we could get going on the front-end as well. 
