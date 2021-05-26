@@ -81,7 +81,7 @@ Although everyone ended up working on everything in some ways, we definitely foc
 
 In the first few days I concentrated on getting a back-end up and running so that we could get going on the front-end as well. 
 
-The doodles were referred to as 'artworks' on the back-end
+The doodles were referred to as 'artworks' on the back-end.
 
 Artwork Schemas
 ```javascript
